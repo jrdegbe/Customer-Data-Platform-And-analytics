@@ -1,9 +1,11 @@
 # Customer Data Platform and Analytics
+
 Description : 
+> Repositories of analytics workshop
 
 # <h4>Section 01</h4>
-- [Designing Customer Data Platform](https://github.com/jrdegbe/AdvancedAnalytics-MADT8101/blob/main/Section01/Week01_DesigningCustomerDataPlatform/week01-description.md)
-- [:sparkles: Customer single view](https://github.com/jrdegbe/AdvancedAnalytics-MADT8101/blob/main/Section01/Week02_CustomerSingleView/week02.md)
+- [Designing Customer Data Platform](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section01/Week01_DesigningCustomerDataPlatform/week01-description.md)
+- [:sparkles: Customer single view](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section01/Week02_CustomerSingleView/week02.md)
 
 **Tools & Others**
 
@@ -21,15 +23,15 @@ Description :
 [![](https://img.shields.io/badge/Git_Update-22_Jun_2023-brightgreen?style=f?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 
 # <h4>Section 02</h4>
-- [Customer Lifetime Value](https://github.com/jrdegbe/AdvancedAnalytics-MADT8101/blob/main/Section02/week03CLV.md)
+- [Customer Lifetime Value](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section02/week03CLV.md)
 
 **Tools & Others**
 
 [![](https://img.shields.io/badge/Git_Update-24_Jul_2023-brightgreen?style=f?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 
 # <h4>Section 03</h4>
-- [Customer Scoring](https://github.com/jrdegbe/AdvancedAnalytics-MADT8101/blob/main/Section03/Week03_CustomerScoring/week03.md)
-- [:sparkles: CHURN Scoring](https://github.com/jrdegbe/AdvancedAnalytics-MADT8101/blob/main/Section03/Week04_ChurnScoring/week04.md)
+- [Customer Scoring](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section03/Week03_CustomerScoring/week03.md)
+- [:sparkles: CHURN Scoring](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section03/Week04_ChurnScoring/week04.md)
 
 **Tools & Others**
 
@@ -43,8 +45,8 @@ Description :
 [![](https://img.shields.io/badge/Git_Update-5_Jul_2023-brightgreen?style=f?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 
 # <h4>Section 04</h4>
-- [:sparkles: Customer Segmentation](https://github.com/jrdegbe/AdvancedAnalytics-MADT8101/blob/main/Section04/Week05_CustomerSegmentation/week05.md)
-- [Product Recommendation](https://github.com/jrdegbe/AdvancedAnalytics-MADT8101/blob/main/Section04/Product%20recommendation/week05PR.md)
+- [:sparkles: Customer Segmentation](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section04/Week05_CustomerSegmentation/week05.md)
+- [Product Recommendation](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section04/Product%20recommendation/week05PR.md)
 
 **Tools & Others**
 
@@ -62,7 +64,7 @@ Description :
 [![](https://img.shields.io/badge/Git_Update-12_Jul_2023-brightgreen?style=f?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 
 # <h4>Section 05</h4>
-- [Voice of Customer Analytics](https://github.com/jrdegbe/AdvancedAnalytics-MADT8101/blob/main/Section05/SocialAnalytic.md)
+- [Voice of Customer Analytics](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section05/SocialAnalytic.md)
 
 **Tools & Others**
 
